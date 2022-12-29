@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OpenDesa-Complaint</string>
+    <string name="something_error_title">Ups, terjadi kesalahan</string>
+    <string name="try_again">Coba lagi</string>
+    <string name="back">Kembali</string>
+    <string name="share">Bagikan</string>
+    <string name="complaint">Keluhan</string>
+    <string name="empty_data">Data Kosong</string>
+    <string name="empty_desc">Anda tidak memiliki histori keluhan, klik tombol (+) untuk membuat keluhan</string>
+</resources>
