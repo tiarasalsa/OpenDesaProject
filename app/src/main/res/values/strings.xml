@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">OpenDesa-Complaint</string>
+    <string name="something_error_title">Ups, terjadi kesalahan</string>
+    <string name="try_again">Coba lagi</string>
+    <string name="back">Kembali</string>
+    <string name="share">Bagikan</string>
+    <string name="complaint">Keluhan</string>
+    <string name="empty_data">Data Kosong</string>
+    <string name="empty_desc">Anda tidak memiliki histori keluhan, klik tombol (+) untuk membuat keluhan</string>
+    <string name="write_complaint">Tulis Keluhan</string>
+    <string name="category">Kategori</string>
+    <string name="title">Judul</string>
+    <string name="report">Laporan</string>
+    <string name="nik">NIK</string>
+    <string name="birth_date">Tanggal Lahir</string>
+    <string name="submit">Submit</string>
+    <string name="reporter_verification">Verifikasi Data Pelapor</string>
+    <string name="pick_here">Pilih gambar</string>
+    <string name="attachment">Lampiran</string>
+    <string name="sikema">SIKEMA</string>
+    <string name="send_complaint">Kirim Keluhan</string>
+</resources>
